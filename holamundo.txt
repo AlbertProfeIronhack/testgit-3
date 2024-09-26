@@ -1,1 +1,1 @@
-hola mundo, por fin es juernes !!!
+hola mundo, desde VSCODE por fin es juernes !!!
